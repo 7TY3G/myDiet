@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "private": true,
+    "name": "my-diet",
+    "description": "my quick project for AngularJS",
+    "repository": "https://github.com/7TY3G/angular",
+    "devDependencies": {
+        "http-server": "^0.6.1",
+        "bower": "^1.3.1",
+        "shelljs": "^0.2.6"
+    }
+}
